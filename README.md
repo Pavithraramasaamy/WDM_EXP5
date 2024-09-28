@@ -131,7 +131,7 @@ if __name__ == "__main__":
 ```
 ### Output:
 
-![Screenshot 2024-09-28 134531](https://github.com/user-attachments/assets/ec053ccf-d3d9-4220-a92e-8c7716beb690)
+![image](https://github.com/user-attachments/assets/491b8765-79e6-47d5-8595-794f286e3133)
 
 
 ### Result:
